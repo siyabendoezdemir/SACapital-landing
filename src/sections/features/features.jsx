@@ -45,7 +45,7 @@ function FeatureSection() {
           </div>
           <div className="flex-grow mt-6 prose text-center sm:text-left sm:mt-0 prose-md text-white">
             <h2 className="text-2xl sm:text-4xl font-black leading-none text-gray-800 uppercase font-bebas-neue dark:text-white">
-              <span className="text-pink-500">Proven</span> Trading Plans
+              Proven Trading Plans
             </h2>
             <p className="text-sm leading-none text-gray-800 font-bebas-neue dark:text-white">
               Offering established trading plans and models, we equip our
